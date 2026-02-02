@@ -6,3 +6,5 @@ v="isagi like\n\t \"play\" footbool \nand also like\n cricket"
 print(v)
 d = "I am siddharth singh now i am \\watch\\\n \'cricket\'"
 print(d)
+e ="i am upendra singh \n i am from \"india\"\n i love my country"
+print(e)
