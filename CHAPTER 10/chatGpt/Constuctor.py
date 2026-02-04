@@ -1,12 +1,7 @@
 """
-Docstring for CHAPTER 10.chatGpt.Constuctor
-
 Use __init__() to initialize student name and roll number.
-
 🔹 Hint:
-
 Use constructor
-
 Pass values while creating object
 """
 
