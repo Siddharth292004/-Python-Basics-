@@ -1,10 +1,7 @@
 """
 Program to initialize two variables using constructor
-
 🔹 Hint:
-
 Pass two arguments
-
 Use self.variable
 """
 
