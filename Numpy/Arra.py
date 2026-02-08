@@ -10,7 +10,7 @@ print(b)
 c = np.array([[1,2,3,4],[5,6,7,8]])
 print(c)
 
-# 	  Creates array of all 0s 
+# Creates array of all 0s 
 d = np.zeros((2,3))
 print(d)
 
