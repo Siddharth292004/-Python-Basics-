@@ -1,3 +1,4 @@
+
 a = input("Enter the value of the first variable (a): ")
 b = input("Enter the value of the second variable (b): ")
 # Display the original values
