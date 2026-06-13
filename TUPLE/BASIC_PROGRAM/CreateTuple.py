@@ -72,6 +72,19 @@ type_tuple =("string",10,False,True)
 print(type_tuple)
 print(type(type_tuple))
 
+
+student1 = {"name": "Ram", "age": 20}
+student2 = student1.copy()
+
+print(student2)
+
+
+student1 = {"name": "Ram", "age": 20}
+student2 = student1.copy()
+
+print(student2)
+
+
 variableTuple = 10,20,30,40
 print(variableTuple)
 print(type(variableTuple))
