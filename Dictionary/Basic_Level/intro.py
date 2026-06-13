@@ -48,3 +48,14 @@ print(students1["s1"]["name"])
 
 for key,value in students1.items():
     print(key,":",value)
+
+
+student1 = {"name": "Ram", "age": 20}
+student2 = student1.copy()
+
+print(student2)
+
+student = {"name": "Siddharth"}
+student.setdefault("age", 22)
+
+print(student)
