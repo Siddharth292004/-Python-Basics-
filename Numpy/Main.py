@@ -7,7 +7,7 @@ print(arr)
 arrZero = np.array(80)
 print(arrZero)
 
-# cheching dimenstion of the array
+# checking dimenstion of the array
 print(arr.ndim)
 print(arrZero.ndim)
 
