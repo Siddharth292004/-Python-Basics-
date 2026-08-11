@@ -23,3 +23,16 @@ bin= "this is hot"
 print(bin.endswith("hot"))
 print(bin.find("hot"))
 print(bin.replace("this","summer"))
+
+# one more time
+
+sadie  = "modi comes In doomsday"
+print(sadie.startswith('modi'))
+print(sadie.endswith('doomsday'))
+print(sadie.capitalize())
+print(sadie.title())
+print(sadie.upper())
+print(sadie.lower())
+print(sadie.find('modi'))
+print(sadie.find('doomsday'))
+print(sadie.replace('modi','iron man'))

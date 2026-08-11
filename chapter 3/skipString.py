@@ -5,5 +5,4 @@ print(sum)
 r ="i am siddharth singh "
 rx = r[0:10:4]
 print(rx)
-
-
+print(r[0:4:1])
