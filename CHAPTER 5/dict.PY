@@ -9,7 +9,7 @@ marks = {
 print(marks,type(marks))
 # print(marks["Harry"])
 # print(marks["siddharth"])
-# print(marks[0])
+print(marks[0])
 # print(marks.keys())
 # print(marks.values())
 # marks.update({"Harry" : 99, "sharddha": 89})
