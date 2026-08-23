@@ -53,3 +53,26 @@ print(b ==8)
 a+= 5
 print(a)
 
+# Bitwise operator
+
+c = np.array([1,2,3,5])
+print(c << 1)
+print(c >> 1)
+
+# logical operator
+
+print((a > 7 ) & ( a < 10))
+print((a > 7 ) | (a == 10 ))
+print(~(a))
+
+
+print(np.add(a,b))
+print(np.subtract(a,b))
+print(np.multiply(a,b))
+print(np.divide(a,b))
+
+# aggregation function
+
+arr_2d = np.array([1,2,3,4,5])
+print(np.sum(arr_2d))
+print(np.min(arr_2d))
