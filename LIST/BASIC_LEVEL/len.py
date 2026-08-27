@@ -5,3 +5,6 @@ print(len(numbers))
 
 basket = ["banana","apple","grapes","orange"]
 print(len(basket))
+
+fruits = ["Apple","Banana","Dates","Cherry"]
+print(len(fruits))

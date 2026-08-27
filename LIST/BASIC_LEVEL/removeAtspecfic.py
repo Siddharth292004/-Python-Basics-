@@ -4,6 +4,7 @@ print("Updated list: ",numbers)
 
 
 num = [10,20,30]
-if 50 in num :
-    num.remove(50)
+if 10 in num :
+    num.remove(10)
 print(num)
+

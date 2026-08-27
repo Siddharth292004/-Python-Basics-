@@ -3,5 +3,6 @@
 numbers = [10,20,30,40,50]
 
 numbers[3] = 45 # replace 40 to 45
+numbers[4] = 48
 
 print(numbers)
