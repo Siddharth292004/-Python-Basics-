@@ -9,3 +9,10 @@ print(numbers)
 numbers.sort(reverse = True)
 print(numbers)
 
+
+fruits = ["Apple","Banana","Cherry "]
+fruits.sort()
+print(fruits)
+
+fruits.sort(reverse=True)
+print(fruits)
