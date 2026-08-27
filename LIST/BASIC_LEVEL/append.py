@@ -44,4 +44,3 @@ print(a)       # output = [1,2,3,4,5,[6,7,8,9,10]]
 a.extend(b)
 print(a)      # output = [1,2,3,4,5,6,7,8,9,10]
 
-
